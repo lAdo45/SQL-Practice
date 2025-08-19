@@ -17,13 +17,13 @@ Employee_Projects – Many-to-many relationship between employees and projects
 
 📂 Contents
 
-Database Setup
+1 Database Setup
 
 Create database and tables
 
 Insert sample data
 
-Basic SQL Queries
+2 Basic SQL Queries
 
 Selecting specific columns
 
@@ -33,13 +33,13 @@ Sorting with ORDER BY
 
 Using aggregate functions (COUNT, SUM, AVG)
 
-Joins Practice
+3 Joins Practice
 
 INNER JOIN, LEFT JOIN, RIGHT JOIN examples
 
 Combine employee, department, salary, and project data
 
-Practice Problems
+4 Practice Problems
 
 Employees with/without salaries
 
